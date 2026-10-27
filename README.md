@@ -2,7 +2,9 @@
 
 ## Visão geral
 
-O que uma equipe deve fazer ao descobrir um possível incidente de segurança? Neste laboratório da **Cisco Networking Academy (NetAcad)**, o objetivo é formular perguntas para orientar a investigação e a resposta em cada etapa do processo.
+O que uma equipe deve fazer ao descobrir um possível incidente de segurança? 
+
+> Neste laboratório da **Cisco Networking Academy (NetAcad)**, o objetivo é formular perguntas para orientar a investigação e a resposta em cada etapa do processo.
 
 A atividade apresenta dois cenários fictícios: a propagação de um worm em uma empresa e uma suspeita de acesso indevido a uma estação de trabalho com o sistema de folha de pagamento aberto em um hospital.
 
